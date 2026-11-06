@@ -1,2 +1,2 @@
 # MOLI
-Metrics Optimization LIbrary
+Metric Optimization LIbrary
